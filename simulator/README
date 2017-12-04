@@ -1,0 +1,3 @@
+// one program and six headers have to do the compiling
+// main.c pipeline.h pipelineregisters.h errordetect.h simulator.h controluni.h stagefunction.h compile to main.o 
+// then make main.o to pipeline for execution
